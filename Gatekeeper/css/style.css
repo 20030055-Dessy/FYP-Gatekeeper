@@ -1,0 +1,73 @@
+/* Done by: Dessy */
+
+.warning-container {
+  max-width: 800px;
+}
+
+.warning-page {
+  color: black;
+  text-align: center;
+  background-color: #af0c0c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 750px;
+}
+
+.warning-info {
+  background-color: rgb(172, 168, 168);
+  padding: 30px;
+  text-align: center;
+}
+
+.warning-page h2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.warning-page p {
+  font-size: 16px;
+  line-height: 28px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.warning-info a {
+  color: red;
+}
+
+.red-text {
+  color: red;
+}
+
+.main-content {
+  padding: 25px 0;
+}
+
+.main-content.setting-sec {
+  padding: 30px 0;
+}
+
+.fa-lg {
+  vertical-align: 0;
+}
+
+.footer {
+  height: 40px;
+  margin-top: -40px;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin: auto;
+}
+
+.main-content {
+  padding: 30px 0;
+}
+
